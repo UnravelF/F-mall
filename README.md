@@ -1,3 +1,11 @@
+<h2 align="center">mall商城</h2>
+
+------
+
+mall商城项目，基于vue2开发的移动端仿蘑菇街购物商城项目，内含多类功能组件的封装运用
+
+------
+
 # supermall
 
 ## Project setup
